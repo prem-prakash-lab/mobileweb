@@ -371,7 +371,7 @@ Set the default cursor for buttons.
 */
 
 button,
-[role="button"] {
+[role="button"],.cursor-pointer {
   cursor: pointer;
 }
 
